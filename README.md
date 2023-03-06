@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hii There;I am Yash)](https://git.io/typing-svg)
+Hi There! I am Yash
 
 Machine Learning | Deep Learning Enthusiast
 
