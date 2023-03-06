@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://github.com/yash16jr/yash16jr/blob/main/Hi%20there.gif" alt="header"  width="1200" height="600" />
+  <img src="https://github.com/yash16jr/yash16jr/blob/main/Hi%20there.gif" alt="header"  width="1200" height="550" />
  </div>
 <h2>  About me</h2>
 
