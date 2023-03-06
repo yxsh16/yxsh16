@@ -1,4 +1,4 @@
-HI There!! 👋 I am Yash
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hii There;I am Yash)](https://git.io/typing-svg)
 
 Machine Learning | Deep Learning Enthusiast
 
