@@ -1,28 +1,97 @@
-name: Update GitHub stats
-
+name: GitHub Readme Stats
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
-
+  - cron: 0 */4 * * *  # Change to make the action run more or less frequently. Please be aware that GitHub's free plan only has 2000 CI minutes.
 jobs:
-  update-stats:
-    name: Update GitHub stats
+  stats-light:
+    permissions: write-all
     runs-on: ubuntu-latest
+    name: Stats Card (light mode)
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v2
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Generate Stats (light mode)
+        uses: anuraghazra/github-readme-stats@v2.0.0
+        id: generate
         with:
-          node-version: "14.x"
-      - name: Install dependencies
-        run: npm install
-      - name: Generate stats
-        run: npm run generate
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update GitHub stats" || true
-          git push origin HEAD:main
+          username: yash16jr
+          show_icons: true
+          count_private: true
+          line_height: 28
+          hide_border: true
+          card_width: 450
+          include_all_commits: true
+          role: owner,collaborator
+          exclude_repo: github-readme-stats
+          theme: default
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload Stats (light mode)
+        uses: actions/upload-artifact@v2
+        with:
+          name: stats-light
+          path: stats-light.svg
+  stats-dark:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Stats Card (dark mode)
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate Stats (dark mode)
+        uses: anuraghazra/github-readme-stats@v2.0.0
+        id: generate
+        with:
+          username: yash16jr
+          show_icons: true
+          count_private: true
+          line_height: 28
+          hide_border: true
+          card_width: 450
+          include_all_commits: true
+          role: owner,collaborator
+          exclude_repo: github-readme-stats
+          theme: dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload Stats (dark mode)
+        uses: actions/upload-artifact@v2
+        with:
+          name: stats-dark
+          path: stats-dark.svg
+  top-langs-light:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Top Languages Card (light mode)
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate Top Languages (light mode)
+        uses: anuraghazra/github-readme-stats@v2.0.0
+        id: generate
+        with:
+          username: yash16jr
+          layout: compact
+          langs_count: 10
+          hide_border: true
+          role: owner,collaborator
+          theme: default
+          card_name: 'top-langs'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload Top Languages (light mode)
+        uses: actions/upload-artifact@v2
+        with:
+          name: top-langs-light
+          path: top-langs-light.svg
+  top-langs-dark:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Top Languages Card (dark mode)
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate Top Languages (dark mode)
+        uses: anuraghazra/github-readme-stats@v2.
+
