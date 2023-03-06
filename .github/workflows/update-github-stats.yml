@@ -1,0 +1,28 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-stats:
+    name: Update GitHub stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14.x"
+      - name: Install dependencies
+        run: npm install
+      - name: Generate stats
+        run: npm run generate
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update GitHub stats" || true
+          git push origin HEAD:main
