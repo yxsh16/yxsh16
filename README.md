@@ -10,10 +10,15 @@
 
 - 💬 Problem Solving, Visualization, Data Science Workflow, Data Analytics are few of my skills
 
-- 😉 I can spell HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA.<br><br><hr><br>
+- 😉 I can spell HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA.<br><br>
+ <hr>
+<h3>MY GITHUB Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash16jr&layout=compact)](https://github.com/yash16jr/github-readme-stats)<br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash16jr&layout=compact)](https://github.com/yash16jr/github-readme-stats)<br><br><br><br><hr>
+
+<h3>TOOLS</h3>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -24,8 +29,11 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)<br><br>
 <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new&to=yash16jr@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href= "www.linkedin.com/in/yash16singh">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href= "https://www.linkedin.com/in/yash16singh">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "https://www.kaggle.com/yash16jr">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 <a href = "https://medium.com/@yash16jr">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a><br><br>
+<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="200" theme=tokyonight/><br><br>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
+     
