@@ -1,16 +1,16 @@
- <div align="center">
-  <img src="https://github.com/yash16jr/yash16jr/blob/main/Hi%20there.gif" alt="header"  width="1200" height="550" />
- </div>
-<h2>  About me</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=10000&color=5604fb&background=FFFFFF00&width=435&lines=HELLO+IT'S+YASH)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=f50ab8&lines=DATA+SCIENCE;MACHINE+LEARNING;DEEP+LEARNING)](https://git.io/typing-svg)
+<h2>About me</h2>
 
 - 💼 Acquiring knowledge and sharpening my skills in the field of Data Science.
 
 - 📈 Built a few basic projects in Machine Learning and Deep Learning, Advance ones coming soon 
 
-- ❤️ I love Working with data and finding hidden insights in the depth of huge messy data
+- ❤️ I love working with data and finding hidden insights in the depth of huge messy data
 
-- 💬 Problem Soving, Visualization, Data Science Workflow, Data Analytics are few of my skills.<br><br><hr><br>
+- 💬 Problem Solving, Visualization, Data Science Workflow, Data Analytics are few of my skills
 
+- 😉 I can spell HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA.<br><br><hr><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash16jr&layout=compact)](https://github.com/yash16jr/github-readme-stats)<br><br><br><br>
