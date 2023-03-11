@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=10000&color=5604fb&background=FFFFFF00&width=435&lines=HELLO+IT'S+YASH)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=10000&color=5604fb&background=FFFFFF00&width=435&lines=HELLO+I+AM+YASH)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=f50ab8&lines=DATA+SCIENCE;MACHINE+LEARNING;DEEP+LEARNING)](https://git.io/typing-svg)
 <h2>About me</h2>
 
