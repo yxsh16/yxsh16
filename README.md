@@ -4,7 +4,7 @@
 
 - 💼 Acquiring knowledge and sharpening my skills in the field of Data Science.
 
-- 📈 Built a few basic projects in Machine Learning and Deep Learning, Advance ones coming soon 
+- 📈 Built a few entry-level projects in Machine Learning and Deep Learning, Advance ones coming soon 
 
 - ❤️ I love working with data and finding hidden insights in the depth of huge messy data
 
