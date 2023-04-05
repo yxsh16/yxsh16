@@ -15,7 +15,8 @@
 <h3>MY GITHUB Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash16jr&layout=compact)](https://github.com/yash16jr/github-readme-stats)<br><br><br><br><hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash16jr&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br><br><hr>
 <h3>TOOLS</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
