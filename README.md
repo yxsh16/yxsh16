@@ -4,17 +4,17 @@
 
 - 💼 Acquiring knowledge and sharpening my skills in the field of Data Science.
 
-- 📈 Built a few entry-level projects in Machine Learning and Deep Learning, Advance ones coming soon 
+- 📈 Built some end to end projects, working on more. 
 
-- ❤️ I love working with data and finding hidden insights in the depth of huge messy data
+- ❤️ I love working with data and finding hidden insights in the depth of huge messy data.
 
-- 💬 Problem Solving, Visualization, Data Science Workflow, Data Analytics are few of my skills
+- 💬 Problem Solving, Visualization, Data Science Workflow, Data Analytics are few of my skills.
 
 - 😉 I can spell HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA.<br><br>
  <hr>
 <h3>MY GITHUB Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash16jr&layout=compact)](https://github.com/yash16jr/github-readme-stats)
 <br><br><br><br><hr>
 <h3>TOOLS</h3>
