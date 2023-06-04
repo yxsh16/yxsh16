@@ -2,7 +2,7 @@ name: GitHub Readme Stats
 on:
   workflow_dispatch:
   schedule:
-  - cron: 0 */4 * * *  # Change to make the action run more or less frequently. Please be aware that GitHub's free plan only has 2000 CI minutes.
+  - cron: 0 */10 * * *  # Change to make the action run more or less frequently. Please be aware that GitHub's free plan only has 2000 CI minutes.
 jobs:
   stats-light:
     permissions: write-all
