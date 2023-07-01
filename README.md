@@ -12,9 +12,9 @@
 
 - 😉 I can spell HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA.<br><br>
  <hr>
-<h3>MY GITHUB Stats</h3>
+<h3>My GitHub Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)<br>
+![Yash's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yash16jr&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash16jr&layout=compact)](https://github.com/yash16jr/github-readme-stats)
 <br><br><br><br><hr>
 <h3>TOOLS</h3>
