@@ -2,13 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=f50ab8&lines=DATA+SCIENCE;MACHINE+LEARNING;DEEP+LEARNING)](https://git.io/typing-svg)
 <h2>About me</h2>
 
-- 💼 Acquiring knowledge and sharpening my skills in the field of Data Science.
+- 💼 Actively seeking opportunities to expand my knowledge and enhance my expertise in the dynamic field of Data Science.
 
-- 📈 Built some end to end projects, working on more. 
+- 📈 Successfully completed various comprehensive projects, and continuously engaged in developing new ones, further refining my skills and techniques.
 
-- ❤️ I love working with data and finding hidden insights in the depth of huge messy data.
+- ❤️ I love leveraging the power of data to uncover valuable insights from complex and extensive datasets, driving informed decision-making and facilitating strategic advancements.
 
-- 💬 Problem Solving, Visualization, Data Science Workflow, Data Analytics are few of my skills.
+- 💬 Proficient in various facets of Data Science, including problem-solving, model building, statistics and comprehensive data analytics.
 
 - 😉 I can spell HIPPOPOTOMONSTROSESQUIPPEDALIOPHOBIA.<br><br>
  <hr>
