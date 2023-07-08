@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=10000&color=5604fb&background=FFFFFF00&width=435&lines=HELLO+I+AM+YASH)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=f50ab8&lines=DATA+SCIENCE;MACHINE+LEARNING;DEEP+LEARNING)](https://git.io/typing-svg)
-<h2>About me</h2>
+<h2>About me:</h2>
 
 - 💼 Actively seeking opportunities to expand my knowledge and enhance my expertise in the dynamic field of Data Science.
 
-- 📈 Successfully completed various comprehensive projects, and continuously engaged in developing new ones, further refining my skills and techniques.
+- 📈 I frequently contribute on Kaggle, successfully completed various comprehensive projects, and continuously engaged in developing new ones, further refining my skills and techniques.
 
 - ❤️ I love leveraging the power of data to uncover valuable insights from complex and extensive datasets, driving informed decision-making and facilitating strategic advancements.
 
