@@ -15,7 +15,7 @@
 <h3>My GitHub Stats</h3>
 
 ![Yash's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yxsh16&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yxsh16&layout=compact)](https://github.com/yash16jr/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yxsh16&layout=compact)](https://github.com/yxsh16/github-readme-stats)
 <br><br><br><br><hr>
 <h3>TOOLS</h3>
 
